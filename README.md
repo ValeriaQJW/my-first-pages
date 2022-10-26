@@ -6,7 +6,6 @@ Hello, this is Valeria Qiu
 
 I can do
 - Python
-- painting
 
 
 
